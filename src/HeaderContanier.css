@@ -1,0 +1,55 @@
+.header {
+  height: 100vh;
+}
+
+.header__logos {
+  display: block;
+  flex: 1;
+}
+.header__logo {
+  margin-top: 10px;
+  margin-left: 20px;
+  color: rgb(255, 255, 255);
+}
+
+.header__logo:hover {
+  color: rgb(110, 110, 110);
+}
+.header__bottom {
+  display: flex;
+  justify-content: space-between;
+  color: rgb(255, 255, 255);
+  align-items: center;
+  position: absolute;
+  bottom: 0px;
+  width: 100%;
+}
+
+.header__scrollLine {
+  border-left: 1mm solid rgb(255, 255, 255);
+  height: 45px;
+  padding-bottom: 0px;
+}
+.header__textContainer {
+  writing-mode: vertical-rl;
+  padding: 20px;
+}
+.header__scroll {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+}
+
+h1 {
+  text-align: center;
+  padding-top: 110px;
+  font-weight: 800;
+  font-size: 280px;
+  color: white;
+}
+@media only screen and (max-width: 1160px) {
+  h1 {
+    font-size: 100px;
+    margin-top: 500px;
+  }
+}

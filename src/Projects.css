@@ -1,0 +1,29 @@
+.projects {
+  border-top: 1px solid rgb(56, 68, 77);
+}
+
+.projectsContainer {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  overflow-x: scroll;
+  flex-wrap: wrap;
+  overflow-y: hidden;
+  flex: 1;
+}
+
+.projectsContainer::-webkit-scrollbar {
+  display: none;
+}
+
+h2 {
+  text-align: center;
+  font-weight: 900;
+  font-size: 80px;
+  color: white;
+}
+
+.projects__categoryTab {
+  color: white;
+  text-align: center;
+}
