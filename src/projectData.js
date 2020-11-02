@@ -1,13 +1,13 @@
-import TwiiterBackground from "/Users/stephen/portfolio-2/src/media/TwitterBackground.png";
-import CinemaBackground from "/Users/stephen/portfolio-2/src/media/CinemaBackground.png";
-import AIBackground from "/Users/stephen/portfolio-2/src/media/AIBackground.png";
-import QuoteBackground from "/Users/stephen/portfolio-2/src/media/QuoteBackground.png";
-import PelotonThumbnail from "/Users/stephen/portfolio-2/src/media/PelotonThumbnail.png";
-import PelotonBackground from "/Users/stephen/portfolio-2/src/media/PelotonBackground.png";
-import AIThumbnail from "/Users/stephen/portfolio-2/src/media/AiiThumbnail.png";
-import CinemaThumbnail from "/Users/stephen/portfolio-2/src/media/CinemaThumbnail.png";
-import QuotesTumbnail from "/Users/stephen/portfolio-2/src/media/QuoteThumbnail.png";
-import TwitterThumbnail from "/Users/stephen/portfolio-2/src/media/TwitterThumbnail.png";
+import TwiiterBackground from "../../public/TwitterBackground.png";
+import CinemaBackground from "../../public/CinemaBackground.png";
+import AIBackground from "../../public/AIBackground.png";
+import QuoteBackground from "../../public/QuoteBackground.png";
+import PelotonThumbnail from "../../public/PelotonThumbnail.png";
+import PelotonBackground from "../../public/PelotonBackground.png";
+import AIThumbnail from "../../public/AiiThumbnail.png";
+import CinemaThumbnail from "../../public/CinemaThumbnail.png";
+import QuotesTumbnail from "../../public/QuoteThumbnail.png";
+import TwitterThumbnail from "../../public/TwitterThumbnail.png";
 export default [
   {
     name: "Cinema App",
