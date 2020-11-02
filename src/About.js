@@ -15,18 +15,18 @@ function About() {
 
         <div className="about__texts">
           <p>
-            The journey for me started a few years ago in 2016. I was browsing
-            the web when I came across a video about a whale in a gymnasium. It
-            turns a company called Magic Leap were developing augmented reality
-            glasses. I decided to visit the website to see what technologies
-            were used to develop this experience. Once the site loaded, I was
-            amazed by the level of creativity and interactivity the website had.
-            It was then I knew this is where I wanted my life work to be. After
-            years of sitting on the sidelines learning about the spatial web
-            augmented and virtual reality. I decided to take the leap and to
-            enroll in Flatiron coding Bootcamp. Which lead me here a Front-End
-            developer with a passion for creating websites and AR VR
-            experiences.
+            My interests for web development started in 2016 when I discovered a
+            company called Magic Leap which focuses on developing augmented
+            reality experiences through AR glasses. The level of creativity and
+            interactiveness that the website had sparked my passion for
+            developing the spatial web even further. It was then I knew that this is
+            where I wanted my life work to be. After years of sitting on the
+            sidelines learning about the spatial web of augmented and virtual
+            reality I decided to take the leap and enroll in Flatiron Coding
+            Bootcamp to gain the necessary knowledge and skills needed to
+            develop applications for the spatial web. This has lead me to this
+            point of my journey as a Front-End developer with a passion for
+            creating websites and AR/VR experiences.
           </p>
         </div>
       </div>
