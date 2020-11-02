@@ -11,6 +11,7 @@
 .about__image > img {
   height: 300px;
   padding-top: 10px;
+  border-radius: 60%;
 }
 
 .about__texts > p {
