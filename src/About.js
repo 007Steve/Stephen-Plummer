@@ -1,5 +1,4 @@
 import React from "react";
-import Headshot from "/Users/stephen/portfolio-2/src/media/HeadShot.png";
 import "./About.css";
 import Nav from "./Nav";
 function About() {
