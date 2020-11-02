@@ -26,6 +26,7 @@ function About() {
             develop applications for the spatial web. This has lead me to this
             point of my journey as a Front-End developer with a passion for
             creating websites and AR/VR experiences.
+            
           </p>
         </div>
       </div>
