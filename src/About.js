@@ -9,7 +9,7 @@ function About() {
 
       <div className="about__content">
         <div className="about__image">
-          <img src="https://avatars0.githubusercontent.com/u/33614576?s=460&u=76a33555878299c6870eb5e6d114ab92958f56ef&v=4" alt="" />
+          <img src="HeadShot.png" alt="" />
         </div>
 
         <div className="about__texts">

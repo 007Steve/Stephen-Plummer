@@ -1,13 +1,4 @@
-import TwiiterBackground from "../../public/TwitterBackground.png";
-import CinemaBackground from "../../public/CinemaBackground.png";
-import AIBackground from "../../public/AIBackground.png";
-import QuoteBackground from "../../public/QuoteBackground.png";
-import PelotonThumbnail from "../../public/PelotonThumbnail.png";
-import PelotonBackground from "../../public/PelotonBackground.png";
-import AIThumbnail from "../../public/AiiThumbnail.png";
-import CinemaThumbnail from "../../public/CinemaThumbnail.png";
-import QuotesTumbnail from "../../public/QuoteThumbnail.png";
-import TwitterThumbnail from "../../public/TwitterThumbnail.png";
+
 export default [
   {
     name: "Cinema App",
@@ -17,8 +8,8 @@ export default [
     description:
       "This applicationa is a cinema app the let the user explore  the site and discover movies.For this projectt i used the movie database api to get all the movies data. the insipration for this site is a combination of Netfelix and Hbo themses. Overall this was a fun project to build, upcoming featues are to add video trailer,authentication functionality",
     video: "9HkUCRxMGiA",
-    backgroundPic: `${CinemaBackground}`,
-    thumbnail: `${CinemaThumbnail}`,
+    backgroundPic: `/CinemaBackground.png`,
+    thumbnail: `/CinemaThumbnail.png`,
     website: "https://movie-app-54a42.web.app/",
     github: "https://github.com/007Steve/Cinema-app",
   },
@@ -28,8 +19,8 @@ export default [
     color: "#03A3FF",
     id: "2",
     description: "Have a carpet-like lawn without any work.",
-    backgroundPic: `${TwiiterBackground}`,
-    thumbnail: `${TwitterThumbnail}`,
+    backgroundPic: `/TwitterBackground.png`,
+    thumbnail: `/TwitterThumbnail.png`,
     video: "https://media.giphy.com/media/Y0shUe3fnDpysQFELD/giphy.gif",
     website: "https://twitter-app-swart.vercel.app/",
     github: "https://github.com/007Steve/Twitter-App",
@@ -40,8 +31,8 @@ export default [
     color: "#9AC1F8",
     id: "3",
     description: "This app is uses the speech recognition ",
-    backgroundPic: `${AIBackground}`,
-    thumbnail: `${AIThumbnail}`,
+    backgroundPic: `/AIBackground.png`,
+    thumbnail: `/AiiThumbnail.png`,
     video: "https://media.giphy.com/media/Y0shUe3fnDpysQFELD/giphy.gif",
     website: "https://ai-voice-app.vercel.app/",
     github: "https://github.com/007Steve/AI-Voice-App",
@@ -52,8 +43,8 @@ export default [
     color: "#1CD7BD",
     id: "4",
     description: "about random quotes",
-    backgroundPic: `${QuoteBackground}`,
-    thumbnail: `${QuotesTumbnail}`,
+    backgroundPic: `/QuoteBackground.png`,
+    thumbnail: `/QuoteThumbnail.png`,
     video: "0KeJrm1bSxI",
     website: "https://quotes-generator-nine.vercel.app/",
     github: "https://github.com/007Steve/Quotes-Generator",
@@ -64,8 +55,8 @@ export default [
     color: "red",
     id: "5",
     description: "Have a carpet-like lawn without any work.",
-    backgroundPic: `${PelotonBackground}`,
-    thumbnail: `${PelotonThumbnail}`,
+    backgroundPic: `/PelotonBackground.png`,
+    thumbnail: `/PelotonThumbnail.png`,
     video: "DzF1f_uH5uk",
     website: "https://peloton-clone.vercel.app/",
     github: "https://github.com/007Steve/Peloton-clone",

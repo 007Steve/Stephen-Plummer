@@ -1,7 +1,6 @@
 import React from "react";
 import "./App.css";
 import HomePage from "./HomePage";
-
 import { BrowserRouter as Router, Switch, Route } from "react-router-dom";
 import ProjectPage from "./ProjectPage";
 import About from "./About";
