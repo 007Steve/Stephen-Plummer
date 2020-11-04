@@ -1,13 +1,13 @@
 .projectCard {
-  padding: 20px;
+padding: 30px;
   cursor: pointer;
 }
 
 .projectCard__image {
   border-radius: 30px;
   object-fit: contain;
-
-  width: 400px;
+width: 400px;
+  
   transition: transform 450ms;
 }
 

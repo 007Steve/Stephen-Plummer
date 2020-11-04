@@ -10,6 +10,7 @@
   flex-wrap: wrap;
   overflow-y: hidden;
   flex: 1;
+
 }
 
 .projectsContainer::-webkit-scrollbar {
