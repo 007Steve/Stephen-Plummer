@@ -10,7 +10,7 @@ export default [
     video: "9HkUCRxMGiA",
     backgroundPic: `/CinemaBackground.png`,
     thumbnail: `/CinemaThumbnail.png`,
-    website: "https://movie-app-54a42.web.app/",
+    website: "https://cinema-app-eight.vercel.app/",
     github: "https://github.com/007Steve/Cinema-app",
   },
   {
