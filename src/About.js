@@ -8,6 +8,7 @@ function About() {
       <h3>About Me</h3>
 
       <div className="about__content">
+        
         <div className="about__image">
           <img src="HeadShot.png" alt="" />
         </div>
