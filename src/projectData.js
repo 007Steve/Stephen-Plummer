@@ -18,7 +18,7 @@ export default [
     tools: "React | Firebase",
     color: "#03A3FF",
     id: "2",
-    description: "The Twitter Clone App is a replica of Twitter that I created to challenge myself to see if I could build this particular layout. I used Firebase for the back-end and React for the front-end of this app."
+    description: "The Twitter Clone App is a replica of Twitter that I created to challenge myself to see if I could build this particular layout. I used Firebase for the back-end and React for the front-end of this app.",
     backgroundPic: `/TwitterBackground.png`,
     thumbnail: `/TwitterThumbnail.png`,
     video: "https://media.giphy.com/media/Y0shUe3fnDpysQFELD/giphy.gif",
