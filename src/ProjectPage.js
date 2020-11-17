@@ -43,7 +43,7 @@ function ProjectPage() {
       </div>
       <div className="projectPage__detailsContainer">
         <div className="projectPage__details">
-          <h4>Overview</h4>
+          <h4  style={{ color: `${projectInfo.color}` }}>Overview</h4>
           <p>{projectInfo.description}</p>
         </div>
 

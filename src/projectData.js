@@ -18,7 +18,7 @@ export default [
     tools: "React | Firebase | Redux",
     color: "#4FECD1",
     id: "2",
-    description: "The Twitter Clone App is a replica of Twitter that I created to challenge myself to see if I could build this particular layout. I used Firebase for the back-end and React for the front-end of this app.",
+    description: "The Bolt Chat App is an instant messaging app that lets you communicate with others. I used Firebase for the back-end, Redux and React for the front-end of this app.",
     backgroundPic: `/bolt-chat-bg.png`,
     thumbnail: `/bolt chat.png`,
     video: "an8ZY-Rnw24",

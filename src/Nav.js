@@ -12,7 +12,7 @@ function Nav() {
       </div>
 
       <div className="nav__options">
-        <Link to="/#portfolio">
+        <Link to="/#projects-section">
           <p className="nav__links">PROJECTS</p>
         </Link>
         <Link to="/#contact-section">

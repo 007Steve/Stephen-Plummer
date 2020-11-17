@@ -81,6 +81,12 @@
   margin-left: 20px;
 }
 
+.projectPage__details > h4{
+font-size: 23px;
+margin-bottom: 15px;
+}
+
+
 iframe {
   width: 100vw;
 }
